@@ -1,0 +1,42 @@
+{
+  "identifier": "roadtunes",
+  "nonRenewingSubscriptions": [],
+  "products": [],
+  "settings": {
+    "_askToBuyEnabled": false
+  },
+  "subscriptionGroups": [
+    {
+      "id": "21500000",
+      "localizations": [],
+      "name": "Roadtrip Tunes Pro",
+      "subscriptions": [
+        {
+          "adHocOffers": [],
+          "codeOffers": [],
+          "displayPrice": "1.99",
+          "familyShareable": false,
+          "groupNumber": 1,
+          "internalID": "roadtunes_pro_monthly",
+          "introductoryOffer": null,
+          "localizations": [
+            {
+              "description": "Unlimited trip playlists and shareable trip music cards.",
+              "displayName": "Roadtrip Tunes Pro",
+              "locale": "en_US"
+            }
+          ],
+          "productID": "roadtunes_pro_monthly",
+          "recurringSubscriptionPeriod": "P1M",
+          "referenceName": "Roadtrip Tunes Pro Monthly",
+          "subscriptionGroupID": "21500000",
+          "type": "RecurringSubscription"
+        }
+      ]
+    }
+  ],
+  "version": {
+    "major": 3,
+    "minor": 0
+  }
+}
